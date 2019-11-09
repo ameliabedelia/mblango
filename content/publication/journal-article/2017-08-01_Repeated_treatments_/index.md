@@ -1,6 +1,6 @@
 +++
 title = "Repeated treatments with Chitosan in combination with antibiotics completely eradicate uropathogenic Escherichia coli from infected mouse urinary bladders"
-date = "2017-01-01"
+date = "2017-08-01"
 authors = ["Andreja Erman", "Veronika Krizan Hergouth", "Matthew G. Blango", "Mojca Kerec Kos", "Matthew A. Mulvey", "Peter Veranic"]
 publication_types = ["2"]
 publication = "Journal of Infectious Diseases, (216), 3, _pp. 375--381_, https://doi.org/10.1093/infdis/jix023"

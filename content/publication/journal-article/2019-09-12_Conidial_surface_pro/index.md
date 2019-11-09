@@ -1,6 +1,6 @@
 +++
 title = "Conidial surface proteins at the interface of fungal infections"
-date = "2019-01-01"
+date = "2019-09-12"
 authors = ["Matthew G. Blango", "Olaf Kniemeyer", "Axel A. Brakhage"]
 publication_types = ["2"]
 publication = "PLOS Pathogens, (15), 9, _pp. e1007939_, https://doi.org/10.1371/journal.ppat.1007939"
