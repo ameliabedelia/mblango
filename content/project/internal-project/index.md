@@ -1,8 +1,8 @@
 ---
-date: "2016-04-27T00:00:00Z"
+date: ""
 external_link: ""
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Matt Blango
   focal_point: Smart
 links:
 - icon: twitter
@@ -10,10 +10,10 @@ links:
   name: Follow
   url: https://twitter.com/mgblango
 slides: example
-summary: Follow my adventures here.
+summary: Follow my science here.
 tags:
-- Adventure
-title: The Adventure Section
+- Science
+title: Science
 url_code: ""
 url_pdf: ""
 url_slides: ""

@@ -17,8 +17,7 @@ publication_types:
 - "2"
 publishDate: "2016-04-18T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 tags:
 - Source Themes
 title: Identification of the long, edited dsRNAome of LPS-stimulated immune cells
@@ -41,10 +40,10 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 @article{example2,
-  title = {An example journal article},
-  author={Bighetti, Nelson and Ford, Robert},
-  journal = {Journal of Source Themes},
-  year    = 2015,
-  volume  = 1,
-  number  = 1
+  title = {Identification of the long, edited dsRNAome of LPS-stimulated immune cells},
+  author={Blango, Matthew and Bass, Brenda},
+  journal = {Genome Research},
+  year    = 2016,
+  volume  = 
+  number  = 
 }
