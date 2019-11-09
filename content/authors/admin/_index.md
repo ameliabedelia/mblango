@@ -7,7 +7,7 @@ education:
   - course: PhD in Microbiology and Immunology
     institution: University of Utah
     year: 2012
-  - course: BA in Biology
+  - course: BA in Biochemistry and Molecular Biology
     institution: Boston University
     year: 2006
 email: ""
@@ -39,6 +39,7 @@ user_groups:
 - Visitors
 ---
 
-Matthew Blango loves his cat a lot
+I grew up in the suburbs of Philadelphia in the US state of Pennsylvania. After highschool, I moved north to attend Boston University, where I received a Bachelor of the Arts in Biochemistry and Molecular Biology and was particularly interested in infectious disease. After obtaining my B.A., I hopped over to Utah, where I earned my PhD in Microbiology and Immunology studying the pathogenesis biochemistry of uropathogenic *Escherichia coli* with Prof. Matt Mulvey at the University of Utah. I followed my PhD with a postdoctoral fellowship defining the endogenous pool of double-stranded RNA in mammalian immune cells with Prof. Brenda Bass. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am currently a postdoctoral fellow and small group leader studying fungal biology and pathogenesis at the Leibniz-HKI in Jena, Germany with Prof. Axel Brakhage. My work here is centered on the conidial (spore) surface proteome, the extracellular vesicle biology of host-pathogenesis, and the importance of non-coding RNA in fungi. In the future, I hope to be able to establish my own group focused on harnessing our knowledge of extacellular vesicles and non-coding RNA for the development of RNA-based therapeutics and diagnostics for the treatment of fungal infections. Maybe we can work on these problems together?
+
