@@ -1,6 +1,6 @@
 +++
 title = "Identification of the long, edited dsRNAome of LPS-stimulated immune cells"
-date = "2016-01-01"
+date = "2016-04-21"
 authors = ["Matthew G. Blango", "Brenda L. Bass"]
 publication_types = ["2"]
 publication = "Genome Research, (26), 6, _pp. 852--862_, https://doi.org/10.1101/gr.203992.116"

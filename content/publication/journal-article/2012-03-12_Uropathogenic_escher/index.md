@@ -1,6 +1,6 @@
 +++
 title = "Uropathogenic escherichia coli induces serum amyloid a in mice following urinary tract and systemic inoculation"
-date = "2012-01-01"
+date = "2012-03-12"
 authors = ["Andreja Erman", "Katja Lakota", "Katjusa Mrak-Poljsak", "Matthew G. Blango", "Veronika Krizan-Hergouth", "Matthew A. Mulvey", "Snezna Sodin-Semrl", "Peter Veranic"]
 publication_types = ["2"]
 publication = "PLoS ONE, (7), 3, https://doi.org/10.1371/journal.pone.0032933"

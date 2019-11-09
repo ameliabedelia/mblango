@@ -1,6 +1,6 @@
 +++
 title = "Forced resurgence and targeting of intracellular uropathogenic Escherichia coli reservoirs"
-date = "2014-01-01"
+date = "2014-03-25"
 authors = ["Matthew G. Blango", "Elizabeth M. Ott", "Andreja Erman", "Peter Veranic", "Matthew A. Mulvey"]
 publication_types = ["2"]
 publication = "PLoS ONE, (9), 3, https://doi.org/10.1371/journal.pone.0093327"
