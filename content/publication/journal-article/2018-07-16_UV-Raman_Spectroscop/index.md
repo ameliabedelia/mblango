@@ -1,6 +1,6 @@
 +++
 title = "UV-Raman Spectroscopic Identification of Fungal Spores Important for Respiratory Diseases"
-date = "2018-01-01"
+date = "2018-07-16"
 authors = ["Olga Zukovskaja", "Sandra Kloss", "Matthew G. Blango", "Oleg Ryabchykov", "Olaf Kniemeyer", "Axel A. Brakhage", "Thomas W. Bocklitz", "Dana Cialla-May", "Karina Weber", "Jurgen Popp"]
 publication_types = ["2"]
 publication = "Analytical Chemistry, (90), 15, _pp. 8912--8918_, https://doi.org/10.1021/acs.analchem.8b01038"

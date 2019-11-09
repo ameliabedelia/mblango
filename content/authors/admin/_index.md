@@ -10,7 +10,7 @@ education:
   - course: BA in Biochemistry and Molecular Biology
     institution: Boston University
     year: 2006
-email: ""
+email: "matthew.blango@leibniz-hki.de"
 interests:
 - Fungal pathogenesis
 - RNA biology
@@ -19,7 +19,7 @@ name: Matthew G. Blango
 organizations:
 - name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)
   url: "https://www.leibniz-hki.de/en/"
-role: Postdoctoral fellow
+role: Postdoctoral Fellow
 social:
 - icon: envelope
   icon_pack: fas
