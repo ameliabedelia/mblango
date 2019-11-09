@@ -1,5 +1,5 @@
 ---
-date: ""
+date: "2019-11-09"
 external_link: ""
 image:
   caption: Photo by Matt Blango
