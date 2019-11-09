@@ -6,6 +6,6 @@ image:
   focal_point: Smart
 summary: A bit of my photography is here.
 tags:
-- Demo
+- Photography
 title: Photography
 ---
