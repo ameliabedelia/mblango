@@ -35,3 +35,7 @@
   url = "#contact"
   weight = 70
 
+[[main]]
+  name = "Gallery"
+  url = "#gallery"
+  weight = 50
