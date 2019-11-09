@@ -30,8 +30,8 @@ subtitle = ""
     tag = "Photography"
   
   [[content.filter_button]]
-    name = "Blog"
-    tag = "Blog"
+    name = "Science"
+    tag = "Science"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
