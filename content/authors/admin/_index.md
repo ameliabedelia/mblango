@@ -30,6 +30,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=2ZXBIEYAAAAJ
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/matthew-blango/
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/gcushen
