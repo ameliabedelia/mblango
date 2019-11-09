@@ -13,7 +13,7 @@ education:
 email: ""
 interests:
 - Fungal pathogenesis
-- RNA Biology
+- RNA biology
 - Extracellular vesicles 
 name: Matthew G. Blango
 organizations:
