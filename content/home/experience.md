@@ -40,5 +40,14 @@ date_format = "Jan 2006"
   date_start = "2012-06-01"
   date_end = "2016-04-14"
   description = """In this position as a postdoctoral fellow with Prof. Brenda Bass, I worked to define the endogenous pool of host double-stranded RNA during activation of mammalian monocytes and macrophages."""
+  
+[[experience]]
+  title = "Graduate Research Associate"
+  company = "University of Utah"
+  company_url = "https://medicine.utah.edu/pathology/microbiology-immunology/"
+  location = "Utah, USA"
+  date_start = "2006-08-30"
+  date_end = "2012-06-01"
+  description = """As  PhD student, I studied the host-pathogensis of uropathogenic *Escherichia coli*. We were particularly interested in antibiotic susceptibility and the contribution of non-coding RNA to pathogenesis."""
 
 +++
