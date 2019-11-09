@@ -7,18 +7,14 @@ date: "2015-09-01T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
 projects: []
 publication: '*Genome Research*'
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2016-04-18T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+slides: ""
+summary: ""
 tags:
 - Source Themes
 title: Identification of the long, edited dsRNAome of LPS-stimulated immune cells
@@ -31,20 +27,3 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-@article{example2,
-  title = {An example journal article},
-  author={Bighetti, Nelson and Ford, Robert},
-  journal = {Journal of Source Themes},
-  year    = 2015,
-  volume  = 1,
-  number  = 1
-}

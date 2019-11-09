@@ -1,42 +1,38 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I study the RNA biology of fungal pathogenesis
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Microbiology and Immunology
+    institution: University of Utah
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BA in Biology
+    institution: Boston University
+    year: 2006
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Fungal pathogenesis
+- RNA Biology
+- Extracellular vesicles 
+name: Matthew G. Blango
 organizations:
-- name: Stanford University
-  url: ""
-role: Professor of Artificial Intelligence
+- name: Leibniz Institute for Natural Product Research and Infection Biology (Leibniz-HKI)
+  url: "https://www.leibniz-hki.de/en/"
+role: Postdoctoral fellow
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/mgblango
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=2ZXBIEYAAAAJ
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/gcushen
 superuser: true
 user_groups:
 - Researchers
