@@ -1,2 +1,5 @@
 # mblango
-website for Matthew Blango
+***
+Professional website for Matthew Blango
+
+https://mgblango.netlify.com/
